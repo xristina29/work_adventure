@@ -76,40 +76,131 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
-         "source":"trees.tsx"
+         "image":"tiles\/trees_and_bushes_pack\/trees_and_bushes_pack\/trees-and-bushes.png",
+         "imageheight":160,
+         "imagewidth":288,
+         "margin":0,
+         "name":"trees",
+         "spacing":0,
+         "tilecount":45,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":46,
-         "source":"flower.tsx"
+         "image":"Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[A]_type1\/[A]Flower_pipo.png",
+         "imageheight":160,
+         "imagewidth":32,
+         "margin":0,
+         "name":"pipoa1",
+         "spacing":0,
+         "tilecount":5,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":51,
-         "source":"tiles3.tsx"
+         "image":"tiles\/fireplace.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"fire",
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
-         "firstgid":51,
-         "source":"fire.tsx"
-        }, 
-        {
+         "columns":12,
          "firstgid":67,
-         "source":"musik.tsx"
+         "image":"tiles\/decoration.png",
+         "imageheight":192,
+         "imagewidth":384,
+         "margin":0,
+         "name":"musik",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":139,
-         "source":"tile4.tsx"
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tile4",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":395,
-         "source":"new_tiles.tsx"
+         "image":"tiles\/floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"new_tiles",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":34,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":459,
-         "source":"nnew.tsx"
+         "image":"tiles\/Atlas2\/obj_misk_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"nnew",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":1483,
-         "source":"new3.tsx"
+         "image":"tiles\/Atlas2\/build_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"new3",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":9,
+         "firstgid":2507,
+         "image":"tiles\/trees_and_bushes_pack\/trees_and_bushes_pack\/trees-and-bushes.png",
+         "imageheight":160,
+         "imagewidth":288,
+         "margin":0,
+         "name":"trees",
+         "spacing":0,
+         "tilecount":45,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
