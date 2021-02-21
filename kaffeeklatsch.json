@@ -1221,8 +1221,72 @@
          "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":2793,
-         "source":"new3.tsx"
+         "image":"tiles\/Atlas2\/build_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"new3",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":283,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":284,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":315,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":316,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":347,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":348,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
